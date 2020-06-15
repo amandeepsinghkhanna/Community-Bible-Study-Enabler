@@ -1,7 +1,6 @@
-
 """
     @script-author: Amandeep Singh Khanna
-    @script-description: 
+    @script-description: A python script to send emails with bible verses for enabling community bible study.
 """
 
 # importing standard python modules:
